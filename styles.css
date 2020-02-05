@@ -9,7 +9,15 @@ h1 {
   }
   p {
     font-family: sans-serif;
+    font-size: larger;
   }
   ul {
     line-height: 40px;
+  }
+  body{
+      background-color: blanchedalmond;
+
+  }
+  strong{
+      color:red
   }
